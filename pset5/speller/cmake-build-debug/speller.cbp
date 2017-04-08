@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="speller"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/oleg/CLionProjects/speller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/oleg/CLionProjects/speller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/oleg/CLionProjects/speller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="speller">
+				<Option output="/home/oleg/CLionProjects/speller/cmake-build-debug/speller" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/oleg/CLionProjects/speller/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 speller"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="speller/fast">
+				<Option output="/home/oleg/CLionProjects/speller/cmake-build-debug/speller" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/oleg/CLionProjects/speller/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 speller/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/oleg/CLionProjects/speller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/oleg/CLionProjects/speller/ArrayList.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/ArrayList.h">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Dictionary.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Dictionary.h">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/LinkedList.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/LinkedList.h">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Node.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Node.h">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Trecker.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/Trecker.h">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/main.cpp">
+			<Option target="speller"/>
+		</Unit>
+		<Unit filename="/home/oleg/CLionProjects/speller/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

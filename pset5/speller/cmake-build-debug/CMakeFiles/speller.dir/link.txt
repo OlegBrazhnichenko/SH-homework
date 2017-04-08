@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/speller.dir/main.cpp.o CMakeFiles/speller.dir/ArrayList.cpp.o CMakeFiles/speller.dir/LinkedList.cpp.o CMakeFiles/speller.dir/Node.cpp.o CMakeFiles/speller.dir/Dictionary.cpp.o CMakeFiles/speller.dir/Trecker.cpp.o  -o speller 

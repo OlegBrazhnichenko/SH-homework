@@ -1,0 +1,3 @@
+/home/oleg/CLionProjects/speller/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oleg/CLionProjects/speller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oleg/CLionProjects/speller/cmake-build-debug/CMakeFiles/speller.dir
